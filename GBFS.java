@@ -1,6 +1,6 @@
 //GBFS
 import java.util.*; 
-public class SimpleBestFirst { 
+public class BestFirst { 
     public static void bestFirst(int[][] graph, int start, int end, int[] heuristics) { 
         PriorityQueue<Integer> pq = new PriorityQueue<>( 
             (a,b) -> heuristics[a] - heuristics[b] 
