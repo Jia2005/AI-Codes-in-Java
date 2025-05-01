@@ -1,6 +1,6 @@
 //BFS
 import java.util.*; 
-public class SimpleBFS { 
+public class BFS { 
     public static void findPath(int[][] graph, int start, int end) { 
         int n = graph.length; 
         Queue<Integer> queue = new LinkedList<>(); 
