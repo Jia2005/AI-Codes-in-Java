@@ -1,6 +1,6 @@
 //DFID
 import java.util.*; 
-public class SimpleDFID { 
+public class DFID { 
     public static void dfid(int[][] graph, int start, int end) { 
         for (int depth = 0; depth < graph.length; depth++) { 
             boolean[] visited = new boolean[graph.length]; 
