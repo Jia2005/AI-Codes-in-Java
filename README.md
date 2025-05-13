@@ -3,7 +3,7 @@
 > Hey Java enthusiasts! ☕ Here's my collection of AI algorithms from those endless nights when my IDE was open and my brain was running on caffeine overflow.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26gJAJQ1TD9pG4i0E/giphy.gif" alt="Java AI" width="300" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Java AI" width="300" />
 </p>
 
 ## 🛠️ What's Inside
